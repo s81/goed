@@ -1,0 +1,9 @@
+# build output (build.ps1 recreates these)
+goed.exe
+goed.ico
+*.goed~
+
+# not part of goed
+gim.exe
+tools/
+.remember/
